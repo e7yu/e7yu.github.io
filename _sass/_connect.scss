@@ -1,0 +1,48 @@
+.connect-page {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.connect-grid {
+  display: grid;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.connect-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 1rem 1.25rem;
+
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+
+  color: var(--global-text-color);
+  text-decoration: none;
+
+  transition: all 0.2s ease;
+  will-change: transform;
+}
+
+.connect-card i {
+  font-size: 1.6rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.connect-card span {
+  color: inherit;
+}
+
+.connect-card:hover {
+  border-color: var(--global-theme-color);
+  color: var(--global-theme-color);
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.connect-card:hover i {
+  color: var(--global-theme-color);
+}
