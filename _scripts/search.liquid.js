@@ -70,7 +70,7 @@ ninja.data = [
           {% if post.redirect == blank %}
             window.location.href = "{{ post.url | relative_url }}";
           {% elsif post.redirect contains '://' %}
-            window.open("{{ post.redirect }}", "_blank");
+            window.open("{{ post.redirect }}", "_blank", "noopener,noreferrer");
           {% else %}
             window.location.href = "{{ post.redirect | relative_url }}";
           {% endif %}
@@ -304,7 +304,7 @@ ninja.data = [
         title: '{{ social_title }}',
         section: 'Socials',
         handler: () => {
-          window.open({{ social_url }}, "_blank");
+          window.open({{ social_url }}, "_blank", "noopener,noreferrer");
         },
       },
     {%- endfor -%}
