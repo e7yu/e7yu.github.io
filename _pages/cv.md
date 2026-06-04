@@ -14,6 +14,8 @@ description:
     href="/assets/pdf/yu_eric_cv.pdf"
     target="_blank"
     role="button"
+    target="_blank"
+    rel="noopener noreferrer"
     style="
       display: inline-block;
       padding: 0.4rem 1rem;
