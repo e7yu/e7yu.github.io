@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Detailed publication information is also availiable at my [Google Scholar](https://scholar.google.com/citations?user=vNMZtRMAAAAJ) page.
+Detailed publication information is also availiable at my <a href="https://scholar.google.com/citations?user=vNMZtRMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> page.
 
 <!-- Bibsearch Feature -->
 
