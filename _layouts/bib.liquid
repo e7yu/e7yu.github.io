@@ -16,7 +16,7 @@
             {% endif -%}
           >
             {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+              <a href="{{ site.data.venues[entry.abbr].url }}" target="_blank" rel="noopener noreferrer">{{ entry.abbr }}</a>
             {% else %}
               <div>{{- entry.abbr -}}</div>
             {% endif %}
@@ -50,11 +50,11 @@
     <!-- Title -->
     <div class="title">
       {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" target="_blank">
+        <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">
           {{ entry.title }}
         </a>
       {% elsif entry.link %}
-        <a href="{{ entry.link }}" target="_blank">
+        <a href="{{ entry.link }}" target="_blank" rel="noopener noreferrer">
           {{ entry.title }}
         </a>
       {% else %}
