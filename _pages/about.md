@@ -30,4 +30,4 @@ Hello! I am a second-year undergraduate at <a href="https://www.jhu.edu/" target
 
 I am currently a researcher in the <a href="https://xhuanglab.com/" target="_blank" rel="noopener noreferrer">Huang Lab</a> at JHU, where I use directed evolution to engineer proteins with novel catalytic functions for a wide range of pharmaceutical applications. I am also a researcher in the <a href="https://medicine.iu.edu/faculty/42708/mao-weiming" target="_blank" rel="noopener noreferrer">Mao Lab</a> at <a href="https://medicine.iu.edu/" target="_blank" rel="noopener noreferrer">Indiana University School of Medicine</a>, where I study glaucoma and related eye diseases, aiming to understand their mechanisms and improve prevention and therapeutic approaches.
 
-You can reach me at `eyu36 [at] jhu [dot] edu` or at one of my social links [here](/connect/).
+You can reach me at `eyu36 [at] jhu [dot] edu` or at one of the platforms on my [connect](/connect/) page.
