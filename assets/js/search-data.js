@@ -38,35 +38,35 @@ ninja.data = [{
         title: 'Email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%65%79%75%33%36@%6A%68%75.%65%64%75", "_blank");
+          window.open("mailto:%65%79%75%33%36@%6A%68%75.%65%64%75", "_blank", "noopener,noreferrer");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/eyu7", "_blank");
+          window.open("https://www.linkedin.com/in/eyu7", "_blank", "noopener,noreferrer");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=vNMZtRMAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=vNMZtRMAAAAJ", "_blank", "noopener,noreferrer");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/e7yu", "_blank");
+          window.open("https://github.com/e7yu", "_blank", "noopener,noreferrer");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0004-5176-0074", "_blank");
+          window.open("https://orcid.org/0009-0004-5176-0074", "_blank", "noopener,noreferrer");
         },
       },{
       id: 'light-theme',
