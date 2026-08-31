@@ -4,15 +4,15 @@ title: Home
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-<!--
-profile:
-  align: right
-  image: prof_pic.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p class="institution"><strong>Johns Hopkins University</strong></p>
-    <p class="location">Baltimore, MD, USA</p>
--->
+
+#profile:
+#  align: right
+#  image: prof_pic.png
+#  image_circular: false # crops the image to make it circular
+#  more_info: >
+#    <p class="institution"><strong>Johns Hopkins University</strong></p>
+#    <p class="location">Baltimore, MD, USA</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons under profile
